@@ -1,6 +1,6 @@
 # Education examples of libraries that all beginners neded
 
-## What is it about and why i really need it?
+### What is it about and why i really need it?
 
 This project consists of some custom data structures and containers that can help you:
 
@@ -8,19 +8,19 @@ This project consists of some custom data structures and containers that can hel
 * Learn **basics of OOP**
 * Make your own projects **simpler** and **cleaner**
 
-## Project structure
+### Project structure
 
-Using directory "examples" you can see how exactly my implementations works.
+Using directory **"examples"** you can see how exactly my implementations works.
 
 Another directories are implementations of my structures.
 
-## What do you need?
+### What do you need?
 All that you need are:
 * C/C++ Complier
 * Clone my repository
 * Read documentation for specific container
 
-## How to use?
+### How to use?
 
 The genious is simple!
 ```bash
@@ -28,7 +28,7 @@ g++ [your_file].cpp [path_to_library].cpp -o a
 ./a
 ```
 
-## What it can do now?
+### What it can do now?
 
 There is only 1 container:
 
@@ -45,7 +45,7 @@ Now it can:
 * List1 + List2 - key feature (like in Python and other languages)
 * some overloaded operators that make usage easier
 
-## What is next?
+### What is next?
 
 I will extend this repository with new containers as far as ideas will appear in my breain <u>(or you can request and we will make it together)</u>.
 
